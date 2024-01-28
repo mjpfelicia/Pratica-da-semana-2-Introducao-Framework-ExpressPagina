@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+main {
+    margin: 2rem;
+}
+img{
+    width: 200px;
+}
+header {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 2rem 0;
+    margin: 0;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    margin-left: 2rem;
+    font-size: 2rem;
+
+}
+
+.detalhe_navbar{
+    font-size: 1.5rem;
+    margin-left: 2rem;
+
+}
+.title_home{
+    color: #ec0f0f;
+}
+
+.whapper_homer {
+
+    color: #212529;
+    text-align: center;
+    padding: 5rem;
+}
+
+.text_home {
+    padding-top: 3rem;
+    font-size: 1.6rem;
+
+}
+
+.content-produto {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body {
+    flex: 0 0 30%;
+    max-width: 30%;
+    box-shadow: inset 1px 0rem 1rem 3px rgb(24 19 19 / 8%);
+    padding: 1.25rem;
+    margin-left: 1rem;
+    text-align: center;
+}
+
+.card-body_produto {
+    flex: 0 0 33%;
+    max-width: 33%;
+    box-shadow: inset 1px 0rem 1rem 3px rgb(24 19 19 / 8%);
+    padding: 5%;
+    text-align: center;
+    margin: 0 auto;
+}
+.card{
+    margin: 2rem;
+    
+}
+
+.peco {
+    color: #44d666;
+}
+
+.btn {
+    background-color: #008b90;
+    border-radius: 0.5rem;
+    color: #fff;
+    display: block;
+    font-weight: 500;
+    line-height: 3.125rem;
+    margin-top: 1.5rem;
+    padding: 0 1.5625rem;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+
+footer {
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 3rem;
+
+
+}
