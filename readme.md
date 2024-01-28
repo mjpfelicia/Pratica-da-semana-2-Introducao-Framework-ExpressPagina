@@ -1,8 +1,6 @@
 ## Instituto Federal do Espírito Santo
  ## 2024-F2M2: Criação de páginas customizadas com Node.js
- ![Exemplo](/arquivos/fotos/feliciabolsas.png)
-
-# Atividade Prática da Semana 2
+<img src="/arquivos/fotos/feliciabolsas.png" alt="Site em Telas" />
 
 
 
